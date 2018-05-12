@@ -1,0 +1,28 @@
+_repo: Etain-the-Beloved-and-Other-Poems_38135
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cousins, James Henry
+    alias: Cousins, J. H. (James Henry)
+    birthdate: 1873
+    deathdate: 1956
+    gutenberg_agent_id: '39260'
+    url: http://www.gutenberg.org/2009/agents/39260
+    wikipedia: http://en.wikipedia.org/wiki/James_Cousins
+description: ''
+gutenberg_issued: '2011-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38135'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+title: Etain the Beloved, and Other Poems
+url: http://www.gutenberg.org/ebooks/38135
